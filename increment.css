@@ -1,0 +1,37 @@
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2012/10/25/23/18/train-62849_1280.jpg);
+    background-size: cover;
+    font-family: Oxygen, Roboto,BlinkMacSystemFont, 'Segoe UI',  Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 80px;
+    height: 100vh;
+}
+
+
+    button {
+        border: none;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        color: white;
+        background: rgb(227, 84, 84);
+        font-weight: bold;
+        width: 200px;
+        margin-bottom: 5px;
+        border-radius: 5px;
+    }
+
+    #save-btn {
+        background: rgb(108, 108, 203);
+    }
+
+    .container{
+        background: white;
+        max-width: 30%;
+        margin: auto;
+        border: 3px solid black;
+        border-radius: 5px;
+    }
+    
+
+   
